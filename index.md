@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## おつやめ ＝ お疲れ様です。を止めましょう
 
-You can use the [editor on GitHub](https://github.com/taiki-yoshida/otsuyame/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+現代社会でチャットアプリを業務で使う理由は、全ての送受信者が、効率的に、素早く、非同期的に情報を交換しあうことです。
+ただ単純に「お疲れ様です」と送った時には返信が返ってくるとは思わないでください。代わりに、素早く相手も返事できるような形でメッセージを送るように考えましょう。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## チャットのエチケット
 
-### Markdown
+<pre>
+2020-07-19 12:32:12 あなた: お疲れ様です。
+2020-07-19 12:32:15 相手: お疲れ様です。
+# あなたからの本文が届くまで同僚がぼーっと待つ
+2020-07-19 12:34:01 あなた: ○○の件を進めてまして、××についてお伺いしたいのですが･･･（省略
+2020-07-19 12:35:21 相手: それは△△でして、（省略
+</pre>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+これでは電話だとまるで「もしもし？」と連絡して、相手がでたら保留にした見たいになりますよね。
 
-```markdown
-Syntax highlighted code block
+代わりにこのように送り方を変えましょう。
 
-# Header 1
-## Header 2
-### Header 3
+<pre>
+2020-07-19 12:32:12 あなた: お疲れ様です。○○の件を進めてまして、××についてお伺いしたいのですが･･･（省略
+2020-07-19 12:33:32 相手: お疲れ様です。それは△△でして、（省略
+</pre>
 
-- Bulleted
-- List
+このようにすればあなたも返事をより素早く貰えるようになり、相手を待たす時間も減ります。そして相手はすぐにあなたからの連絡への返事を考えることができます。
 
-1. Numbered
-2. List
+あなたは人とと会うときや電話するときと同様、すぐに本題に入らないように、礼儀正しくしようとしているのでしょうが、チャットはどちらでもありません。礼儀正しくしようとしすぎるあまり、逆に相手を待たせることになり、生産性も低くなってしまいます。
 
-**Bold** and _Italic_ and `Code` text
+「いまよろしいでしょうか？」や「お疲れ様です。ちょっと質問があるのですがいいですか？」も同様です。
+「お時間ありますか？」や「いま忙しいですか？」も同様です。さっさと用件を言いましょう！
 
-[Link](url) and ![Image](src)
-```
+もしお疲れ様です。だけだと･･･と思われているのであれば、以下の例文を用意しました：
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<pre>
+2020-07-19 12:32:12 あなた: お疲れ様です。いまお忙しくなければお伺いしたいのですが、○○の件を進めてまして（省略
+</pre>
 
-### Jekyll Themes
+また、質問を先にすることで、非同期的なコミュニケーションが取れるようになります。単純に「お疲れ様です。」と届いた時だと「用件はなんだったんだろう？」で終わってしまいますが、その場で相手が不在だったとしても、あとで相手は質問内容をみることができ、返事が遅れるようになります。特に時差のある仕事環境や相手だと重要です。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taiki-yoshida/otsuyame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 電話のエチケット
 
-### Support or Contact
+人によっては「お疲れ様です。」を送ることで、人がその場にいるかを確認し、電話をかけようとすることもあります。止めましょう。
+チャットに返事したからと、必ず電話やビデオ通話に出れるわけではありません。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+お疲れ様です。と送り代わりに「今お電話かのうですか？」などと送りましょう（素晴らしい訳ではありませんが、まだマシですよね）
+以下のような例文のほうが好ましいです。
+
+<pre>
+2020-07-08 12:32:12 あなた: お疲れ様です。○○について×分クイックに電話できますか？
+</pre>
+
+これにより3つの事が得られます。時間を事前に何分かけるかを確約します。相手に話したい用件がつたわり、その場に相手が居なかったとしても、自分にとっても何を相手と話したかったかを覚えておくことができ、「昨日連絡いただいた件、なんですか？」と相手に聞かれても「なんだったっけ？」と忘れるリスクを減らせます。
+
+<sup>このサイトのソースは[GitHub](https://github.com/taiki-yoshida/otsuyame/)にあります。</sup>
